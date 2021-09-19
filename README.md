@@ -24,7 +24,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![solidWorks](https://www.google.com/imgres?imgurl=https%3A%2F%2Fd2t1xqejof9utc.cloudfront.net%2Fscreenshots%2Fpics%2F451b0dc471cd4cdc764c2a586f4e91b0%2Fmedium.png&imgrefurl=https%3A%2F%2Fgrabcad.com%2Flibrary%2Fsolidworks-icon-1&tbnid=Z7jxBmgR2iIljM&vet=12ahUKEwitj5Wo2IvzAhV7nEsFHcBfA2YQMygBegUIARDFAQ..i&docid=y5We2U42Tg5UdM&w=469&h=469&q=solidworks%20icon&ved=2ahUKEwitj5Wo2IvzAhV7nEsFHcBfA2YQMygBegUIARDFAQ/badge/-SOLIDWORKS-05122A?style=flat&logo=SOLIDWORKS)&nbsp;
+![solidWorks](https://img.shields.io/badge/-solidworks-05122A?style=flat&logo=solidworks)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
