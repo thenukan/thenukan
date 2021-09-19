@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![THENUKAN PATHMANATHAN](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![THENUKAN PATHMANATHAN](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiatvnews.com%2Ftechnology%2Fnews-hackers-selling-780gb-game-source-data-from-ea-including-fifa-21-710975&psig=AOvVaw2BvOus_-bp7mEGq8pvXPJV&ust=1632161219516000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCKCukd_Qi_MCFQAAAAAdAAAAABAD)
 
 
 
