@@ -14,7 +14,7 @@
  </p>
  
 🌱 &nbsp;I'm on track for learning more about Deep learning and web development.\
-✉️ &nbsp;You can shoot me an email at <a href="mailto:pthenukan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=green"/></a> I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at   <a href="mailto:pthenukan07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=green"/></a>      I'll try to respond as soon as I can.
 
 
 
@@ -45,7 +45,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/thenukan-pathmanathan-7027a01a4"><img src="https://img.shields.io/badge/-Thenukan %20Pathmanatan%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:pthenukan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=green"/></a>
+<a href="mailto:pthenukan07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=green"/></a>
 <a href="mailto:pthenukan@yahoo.com"><img src="https://img.shields.io/badge/-yahoo-D14836?style=flat&logo=Gmail&logoColor=purple"/></a>
  </p>
  <p align="center">
