@@ -1,6 +1,6 @@
 ### Hi there 👋  I am thenukan pathmanathan
 
-![THENUKAN PATHMANATHAN](https://resize.indiatvnews.com/en/resize/newbucket/715_-/2021/06/hacker-1623403722.jpg)
+![THENUKAN PATHMANATHAN]
 
 
 
