@@ -25,11 +25,12 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![solidWorks](https://img.shields.io/badge/-SOLIDWORKS-05122A?style=flat&logo=SOLIDWORKS)&nbsp;
+![solidWorks](https://camo.githubusercontent.com/6a98f68c17016e2c4e7acee3fb10eef357015b92afd22c33c99693072c489616/68747470733a2f2f62616e6e6572322e636c65616e706e672e636f6d2f32303138303332382f657a772f6b697373706e672d736f6c6964776f726b732d636f6d70757465722d61696465642d64657369676e2d33642d636f6d70757465722d67726170682d776f726b2d35616262383837366337626431322e313738303633323131353232323339363036383138312e6a7067?style=flat&logo=SOLIDWORKS)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
