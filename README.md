@@ -16,7 +16,7 @@
 
 
 <p align="center">
- <img height="80" src="/Logos/0f97621c3dbdeb7dfe8bd18cfd4b413cac3de417.png" />
+ <img height="80" src="/entc.png" />
  <img height="80" src="/Logos/download-UoM.png" />
  </p>
 
