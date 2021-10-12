@@ -10,6 +10,13 @@
 
 💡 &nbsp;I like to explore new technologies in hardware and software  and come up with innovative ideas .\
 🎓 &nbsp;I'm currently studying Electronic and telecommunication engineering university of moratuwa.\
+
+<p align="center">
+ <img height="100" src="/entc.png" />
+ 
+ <img height="80" src="/UoM.png" />
+ </p>
+ 
 🌱 &nbsp;I'm on track for learning more about Deep learning and web development.\
 ✉️ &nbsp;You can shoot me an email at pthenukan07@gmail.com I'll try to respond as soon as I can.
 
