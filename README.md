@@ -1,10 +1,6 @@
 ### Hi there 👋  I am thenukan pathmanathan
 
-![THENUKAN PATHMANATHAN]
 
-
-
-<!-- ## 👋 &nbsp;Hey there! I'm Thenukan Pathmanathan -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
