@@ -22,12 +22,6 @@
 
 
 
-<p align="center">
- <img height="100" src="/entc.png" />
- 
- <img height="80" src="/UoM.png" />
- </p>
-
 
 
 ### 🛠 &nbsp;Tech Stack
