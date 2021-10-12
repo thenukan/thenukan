@@ -44,8 +44,9 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/thenukan-pathmanathan-7027a01a4"><img src="https://img.shields.io/badge/-Thenukan %20Pathmanatan%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:pthenukan07@yahoo.com"><img src="https://img.shields.io/badge/-yahoo-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
- <a href="mailto:pthenukan@gmail.com"><img src="https://img.shields.io/badge/-thenukan@gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+ <a href="mailto:pthenukan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+ <a href="mailto:pthenukan@yahoo.com"><img src="https://img.shields.io/badge/-yahoo-D14836?style=flat&logo=Gmail&logoColor=purple"/></a>
 <a href="https://www.instagram.com/the_nukan_"><img src="https://img.shields.io/badge/-@thenukan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/thenukan3"><img src="https://img.shields.io/badge/-@thenukan3-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
