@@ -15,6 +15,13 @@
 
 
 
+<p align="center">
+ <img height="80" src="/Logos/0f97621c3dbdeb7dfe8bd18cfd4b413cac3de417.png" />
+ <img height="80" src="/Logos/download-UoM.png" />
+ </p>
+
+
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
