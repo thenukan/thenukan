@@ -9,7 +9,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies in hardware and software  and come up with innovative ideas .\
-🎓 &nbsp;I'm currently studying Electronic and telecommunication engineering university of moratuwa.\
+🎓 &nbsp;I'm currently studying Electronic and telecommunication engineering university of moratuwa.
 
 <p align="center">
  <img height="100" src="/entc.png" />
