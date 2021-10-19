@@ -15,7 +15,7 @@
  
 🌱 &nbsp;I'm on track for learning more about Deep learning and web development.
 
-✉️ &nbsp;You can shoot me an email at   <a href="mailto:pthenukan07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=green"/></a>      I'll try to respond as soon as possible.
+✉️ &nbsp;You can shoot me an email at   <a href="mailto:pthenukan07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=green"/></a>.\      I'll try to respond as soon as possible.
 
 
 
