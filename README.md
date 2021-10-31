@@ -2,7 +2,7 @@
 
 
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About me
 
 💡 &nbsp;I like to explore new technologies in hardware and software  and come up with innovative ideas .\
 🎓 &nbsp;I'm currently studying Electronic and telecommunication engineering university of moratuwa.
