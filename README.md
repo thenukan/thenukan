@@ -26,7 +26,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![JupyterNoteBook](https://img.shields.io/badge/-JupyterNoteBook-05122A?style=flat&logo=JupyterNoteBook&logoColor=FFA518)&nbsp;
+![jupyter](https://img.shields.io/badge/-JupyterNoteBook-05122A?style=flat&logo=Jupyter)&nbsp;
 
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
