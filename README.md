@@ -26,7 +26,7 @@
 ![Python](python.svg)&nbsp;
 ![JavaScript](JavaScript.svg)&nbsp;
 ![Java](Java.svg)&nbsp;
-![jupyter](https://img.shields.io/badge/-Jupyter_Notebook-05122A?style=flat&logo=Jupyter)&nbsp;
+![jupyter](Jupyter.svg)&nbsp;
 ![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=MATLAB)&nbsp;
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
