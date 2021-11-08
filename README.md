@@ -24,7 +24,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](python.svg)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![JavaScript](avascript.svg)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![jupyter](https://img.shields.io/badge/-Jupyter_Notebook-05122A?style=flat&logo=Jupyter)&nbsp;
 ![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=MATLAB)&nbsp;
