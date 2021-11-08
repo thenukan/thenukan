@@ -31,7 +31,7 @@
 
 ![GitHub](git.svg)&nbsp;
 ![Visual Studio Code](vs.svg)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Eclipse](ec.svg)\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![solidWorks](https://img.shields.io/badge/-solidworks-05122A?style=flat&logo=SOLIDWORKS)&nbsp;
 
