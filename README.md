@@ -28,6 +28,7 @@
 ![Java](Java.svg)&nbsp;
 ![jupyter](Jupyter.svg)&nbsp;
 ![MATLAB](mat.svg)&nbsp;
+![System_Verilog](veri.svg)&nbsp;
 
 ![GitHub](git.svg)&nbsp;
 ![Visual Studio Code](vs.svg)&nbsp;
