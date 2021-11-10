@@ -36,7 +36,7 @@
 ![Eclipse](ec.svg)\
 ![Photoshop](ph.svg)&nbsp;
 ![solidWorks](solid.svg)&nbsp;
-
+![Altium](solid.svg)&nbsp;
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
