@@ -13,7 +13,7 @@
  <img height="80" src="/UoM.png" />
  </p>
  
-🌱 &nbsp;I'm on track for learning more about Deep learning and web development.
+🌱 &nbsp;I'm on track for learning more about Deep learning and machine learning.
 
 ✉️ &nbsp;You can shoot me an email at   <a href="mailto:pthenukan07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=green"/></a>     I'll try to respond as soon as possible.
 
